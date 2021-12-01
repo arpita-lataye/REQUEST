@@ -1,0 +1,16 @@
+{
+    "course": {
+        "id": "189",
+        "name": "Special Keys (Typing)",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Let's learn typing",
+        "type": "typing",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": []
+    }
+}

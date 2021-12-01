@@ -1,0 +1,1167 @@
+[
+    {
+        "id": "6537",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "introduction",
+        "slug": "lists-101_json__introduction_json",
+        "sequence_num": 0,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/introduction.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "What do we mean by lists?"
+            },
+            {
+                "component": "text",
+                "value": "You might have studied about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">float</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">booleans</span> data types. These are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> where <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive</span> means <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">simple</span> data types. We can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> to make <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data types</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> is one of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data type</span>."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Exercise"
+            },
+            {
+                "component": "text",
+                "value": "What 10 things do you want to do in your life, make its list.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "Now, store it in a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span>.<br><br>",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "<hr>"
+            },
+            {
+                "component": "text",
+                "value": "In this way, you will get a lot of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">information in the form of a list</span>.      Example :-"
+            },
+            {
+                "component": "text",
+                "value": "Make a list of Groceries that you want to buy.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "Make a list of Courses that you can do at NavGurukul.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "Make a list of questions that you have to do in a given course.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "List of all the good habits that you have.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "List of Companies where you want to work.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "List of students present in the campus.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "List of Council members <br><br>",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "etc."
+            },
+            {
+                "component": "text",
+                "value": "We will see that how important it is for us to study <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List Data Type and List Data Structure</span>."
+            }
+        ]
+    },
+    {
+        "id": "6538",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "defining-lists",
+        "slug": "lists-101_json__defining-lists_json",
+        "sequence_num": 100,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/defining-lists.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "Defining Lists"
+            },
+            {
+                "component": "text",
+                "value": "To define lists we can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square brackets</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span>."
+            },
+            {
+                "component": "text",
+                "value": "Whenever you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span>, then think that list definition has started, and when you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span>, then think that list definition is ending."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Some Examples"
+            },
+            {
+                "component": "text",
+                "value": "In this example, we will store the names of students in a list."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list = [\"rahul\", \"shivam\", \"kavay\", \"ashish\", \"rohit\"]<br>print names_list<br>print type(names_list)"
+            },
+            {
+                "component": "text",
+                "value": "In the last line we have used <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type</span>. By using this function we will come to know that what is its data type."
+            },
+            {
+                "component": "text",
+                "value": "This is the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list of strings</span> because all of its values contain <span style=\"\">strings</span>."
+            },
+            {
+                "component": "text",
+                "value": "<b>Please note that in order to start a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> ,<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span> is used and in order to close <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span> is used. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span> looks like a square shape, that is why these are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SQUARE BRACKETS</span>.</b>"
+            },
+            {
+                "component": "text",
+                "value": "We can put any object inside a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span>. This can be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string, integer</span> or any other data type."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF STRINGS</span>"
+            },
+            {
+                "component": "text",
+                "value": "Yeh kuch banks ke naam ki list hai"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "banks_list = [\"Kotak\", \"HDFC\", \"RBL\", \"SBI\", \"Bank of Baroda\"]<br>print banks_list<br>print type(banks_list)"
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF INTEGERS</span>"
+            },
+            {
+                "component": "text",
+                "value": "This is the list of students marks."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "marks_list = [70, 80, 75, 65, 68]<br>print marks_list   <br>print type(marks_list)"
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF FLOATS</span>"
+            },
+            {
+                "component": "text",
+                "value": "This is the list of temperatures of last seven days."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]<br>print temperature_list"
+            },
+            {
+                "component": "text",
+                "value": "But if we will use type function on a list <span style=\"\">variable</span>, it will always show the type as list.But we the data iside a list can be of any type."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Exercises"
+            },
+            {
+                "component": "text",
+                "value": "Make a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> of your friends.",
+                "decoration": {
+                    "type": "number",
+                    "value": 1
+                }
+            },
+            {
+                "component": "text",
+                "value": "Make a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> of all the countries that you want to visit.",
+                "decoration": {
+                    "type": "number",
+                    "value": 2
+                }
+            },
+            {
+                "component": "text",
+                "value": "Make a list of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">total expenses</span> of last 5 months (suppose , your last month expenses were 58750 and so on.)",
+                "decoration": {
+                    "type": "number",
+                    "value": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "6539",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "defining-lists-2",
+        "slug": "lists-101_json__defining-lists-2_json",
+        "sequence_num": 200,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/defining-lists-2.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "MIXED LISTS"
+            },
+            {
+                "component": "text",
+                "value": "Its not like that lists should have same type of data. Data inside list can be of any type."
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Example:-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "mixed_list = [\"rahul\", 12, 9.0, \"kaavay\", \"shivam\", 1]<br>print type(mixed_list)"
+            },
+            {
+                "component": "text",
+                "value": "But, this is not a very <b>common practice</b>. Usually we keep same type of Data in a list."
+            }
+        ]
+    },
+    {
+        "id": "6540",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "lists-operations",
+        "slug": "lists-101_json__lists-operations_json",
+        "sequence_num": 300,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/lists-operations.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "What can we do with Lists?"
+            },
+            {
+                "component": "text",
+                "value": "In this exercise, we will try to understand how do we use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LISTS</span>. Just as we saw that a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> contains a collection of values. So we need to find a way, that how can we access these values."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print names_list[1]"
+            },
+            {
+                "component": "text",
+                "value": "What happened when we wrote <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nameslist[1]</span>? Did \"shivam\" got printed? "
+            },
+            {
+                "component": "text",
+                "value": "Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[1]</span> is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INDEX</span>. To access any item of a list, we use the INDEX of that item. Let us see what is the index of all the items in the given list."
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]</span>"
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">annu</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 0",
+                "decoration": {
+                    "type": "number",
+                    "value": 1
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">shivam</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 1",
+                "decoration": {
+                    "type": "number",
+                    "value": 2
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">deepa</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 2",
+                "decoration": {
+                    "type": "number",
+                    "value": 3
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pooja</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 3",
+                "decoration": {
+                    "type": "number",
+                    "value": 4
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">rupa</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 4<br><br>",
+                "decoration": {
+                    "type": "number",
+                    "value": 5
+                }
+            },
+            {
+                "component": "text",
+                "value": "If you see carefully, then you will notice that the INDEX of that ITEM is one less than its position. The counting of the INDEX starts from 0, not from 1."
+            },
+            {
+                "component": "table",
+                "value": [
+                    {
+                        "header": "[\"annu\",",
+                        "items": [
+                            "0"
+                        ]
+                    },
+                    {
+                        "header": "\"shivam\",",
+                        "items": [
+                            "1"
+                        ]
+                    },
+                    {
+                        "header": "\"deepa\",",
+                        "items": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "header": "\"pooja\",",
+                        "items": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "header": "\"rupa\"]",
+                        "items": [
+                            "4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br><br>print names_list[0] # se \"annu\" print hoga<br><br>print names_list[4] # se \"rupa\" print hoga<br><br>print names_list[5]"
+            },
+            {
+                "component": "text",
+                "value": "Does the last line gives you <span style=\"\">error</span> ? "
+            },
+            {
+                "component": "blockquote",
+                "value": "lists-operations_key23"
+            },
+            {
+                "component": "text",
+                "value": "Simply means - whatever <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INDEX</span> you have given, that INDEX is out of range of the given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indices</span> of list. (indices - plural of index)."
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Question"
+            },
+            {
+                "component": "text",
+                "value": "What is the maximum INDEX that we can put? "
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Answer"
+            },
+            {
+                "component": "text",
+                "value": "1 less than the length of the INDEX. If we will put more value than the range of the index, then <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index out of range</span> <span style=\"\">error</span> will come."
+            },
+            {
+                "component": "text",
+                "value": "Try to google this <span style=\"\">error</span> and understand about it. This <span style=\"\">error</span> will not leave you ;), its better that you understand it now only."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Changing List Items"
+            },
+            {
+                "component": "text",
+                "value": "In the same way we can update/change the ITEMS in a given LIST."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list[0] = \"abhishek\"<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "Did you notice anything? The ITEM present at 0 INDEX has now been changed to \"abhishek\". Similarly, run this <span style=\"\">code</span> now."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list[3]=\"rishabh\"<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "The ITEM that was present at  INDEX 3 has now changed to \"rishabh\". Keep in mind that INDEX is 1 less than the position of the item. Similarly, if you write something as given below :"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list[5]=\"dhruv\""
+            },
+            {
+                "component": "text",
+                "value": "So, you will get a list index out of range <span style=\"\">error</span>, because at the 5th index no item exists. "
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Length of List and Adding values of the List"
+            },
+            {
+                "component": "text",
+                "value": "If we want to see the length of the list then we use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len ()</span> (length function)."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print len(names_list)"
+            },
+            {
+                "component": "text",
+                "value": "If we want to add one new value to a list then we will use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append</span> function. By using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append()</span>, we can add an element at the end of the list."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "print names_list<br>names_list.append(\"dhruv\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "Here, you can see that previously the list length was <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5</span> but after using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append()</span>, the length of the list became <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span>. When you printed <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span> then the value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dhruv</span> was added in the last."
+            },
+            {
+                "component": "text",
+                "value": "Let's append once again."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list.append(\"alok\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "In this way, you can add as many elements as you want."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Removing Elements from a List"
+            },
+            {
+                "component": "text",
+                "value": "Just as we can add elements to the list, similarly we can remove elements from the list we can use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop()</span>. To remove the last element from the list we can use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop</span> function."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "Try to print it and see if the last element is removed or not. Let's try to one more element from the list."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+            },
+            {
+                "component": "text",
+                "value": "You can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop</span> function with an argument also on a given list. That means you can also add <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop function</span>, which will remove the desired element of the given index from the list. "
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Example :-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list"
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Check if Element exists in List"
+            },
+            {
+                "component": "text",
+                "value": "We can do a lot of interesting operations on the list. One of the important operations of lists is to check whether a particular element is present in the given ITEM LIST or not."
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Example:-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "\"shivam\" in names_list"
+            },
+            {
+                "component": "text",
+                "value": "Its result will come as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> because \"shivam\" element exists in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span>."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "\"imtiyaz\" in names_list"
+            },
+            {
+                "component": "text",
+                "value": "Its result will come as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> because \"imtiyaz\" element does not exist in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span>."
+            },
+            {
+                "component": "text",
+                "value": "As this is a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean value</span>, it will return (<span style=\"\">True</span>/<span style=\"\">False</span>), we can also use it with the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statement</span>."
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Example :-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "if \"shivam\" in names_list:<br>    print \"Shivam ka naam names_list mei hai\"<br>else:<br>    print \"Shivam ka naam names_list mei nahi hai.\""
+            },
+            {
+                "component": "text",
+                "value": "<i>Do you still remember what all we studied in the last Boolean lesson?</i>"
+            }
+        ]
+    },
+    {
+        "id": "6541",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "lists-iteration",
+        "slug": "lists-101_json__lists-iteration_json",
+        "sequence_num": 400,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/lists-iteration.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "To iterate over the list"
+            },
+            {
+                "component": "text",
+                "value": "In a class, the teacher marks attendance by calling out their names one by one, from a list of students. This process is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span>."
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ITERATE</span> is a very important word, which you should bring in your vocabulary."
+            },
+            {
+                "component": "text",
+                "value": "Repeat the same action with each element means <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iterate over the list</span>. There could be many examples of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span> like:"
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Iterate on your own contact list"
+            },
+            {
+                "component": "text",
+                "value": "one by one to all your friends ",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "send SMS .",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "To iterate over the names of students list"
+            },
+            {
+                "component": "text",
+                "value": "See their report cards one by one ",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "calculate their marks one by one",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "assign grades to them.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Now iterate over the names of your friends list"
+            },
+            {
+                "component": "text",
+                "value": "Giving tea one by one to your friends",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Out of them, the friend sitting nearest to you"
+            },
+            {
+                "component": "text",
+                "value": "you give them biscuit together with tea.",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "text",
+                "value": "Basically, the work that we do repeatedly is called as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span> . Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loops</span>, we have learned how to do iteration. But , we don't know how to <b>iterate over a list</b>. Now we will learn how to run <span style=\"\">loop</span> on any list."
+            },
+            {
+                "component": "text",
+                "value": "In this example, we will understand that <b>how to iterate over the list.</b><br>Please see the example given below:-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]"
+            },
+            {
+                "component": "text",
+                "value": "In this list all the elements have specific <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span>."
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"robin\"</span> - 0",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"anamika\"</span> - 1",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"faisal\"</span> - 2",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"valmiki\"</span> - 3",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"waseem\"</span> - 4",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"amara\"</span> - 5<br><br>",
+                "decoration": {
+                    "type": "number",
+                    "value": null
+                }
+            },
+            {
+                "component": "text",
+                "value": "Now, we will use while <span style=\"\">loop</span>, increase the counter one by one and we can access the elements of the  list one by one."
+            },
+            {
+                "component": "header",
+                "variant": 4,
+                "value": "Example :-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>    print students_list[index]<br>    index = index + 1"
+            },
+            {
+                "component": "text",
+                "value": "Here we have to check in the while <span style=\"\">loop</span> that the value of the index should be less than the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>. The <span style=\"\">loop</span> will stop working at the moment when the index value will become equal to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>."
+            },
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "One More Example"
+            },
+            {
+                "component": "text",
+                "value": "To calculate the total marks of a student from the student's marks list we will use the following <span style=\"\">code</span>."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>    total_marks = student_marks[index] + total_marks<br>    index = index + 1<br>print \"Total Marks: \" + str(total_marks)"
+            },
+            {
+                "component": "text",
+                "value": "Think about what will happen and try to <span style=\"\">execute</span> to see what will happen. Did you understand something?"
+            },
+            {
+                "component": "header",
+                "variant": 1,
+                "value": "One Final Example"
+            },
+            {
+                "component": "text",
+                "value": "Suppose we have a list of marks and we have to find that how many students have marks less than 50. For doing this we write the <span style=\"\">code</span> given below."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>    marks = student_marks[index]<br>    if marks < 50:<br>        less_than50 = less_than50 + 1<br>    else:<br>        more_than50 = more_than50 + 1<br>    index = index + 1<br>print \"Marks more than 50: \" + str(more_than50)<br>print \"Marks less than 50: \" + str(less_than50)"
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Question"
+            },
+            {
+                "component": "text",
+                "value": "If we will add <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">less_than50</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">more_than50</span> then what is its relation with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>? "
+            },
+            {
+                "component": "text",
+                "value": "You will come to know whether your understanding level is good or not? If you are wrong then discuss it with your peers and understand it :)."
+            },
+            {
+                "component": "text",
+                "value": "<i>If you will clearly understand this example then your concepts will become more clear.</i>"
+            }
+        ]
+    },
+    {
+        "id": "5408",
+        "parent_exercise_id": "5408",
+        "course_id": "192",
+        "name": "introduction",
+        "slug": "lists-101_json__questions/introduction_json",
+        "sequence_num": 500,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/questions/introduction.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "Question Set 1"
+            },
+            {
+                "component": "text",
+                "value": "In this section some questions are given. Solutions to some of the questions are given. If you want, you can see the solutions directly. But that will not at all help you. It would be better that first try that question for at least 1 hour by yourself and then for 0.5 hours with your friend and find the solution. There is no other better way to clarify your concepts."
+            },
+            {
+                "component": "text",
+                "value": "All those solutions which don't have a video, try to create video for those solutions. By this you will also learn how to discuss and talk about the concepts and this will be very helpful during the interviews.You can make the videos and <span style=\"\">upload</span> them, and together with the links ,you can share them as comments below the questions."
+            },
+            {
+                "component": "text",
+                "value": "While doing all these questions, you don't need to use any function that is not explained in saral. By doing this you can solve a question using the shortcut method but you won't be able to know that how to solve a given problem and the approach, that we follow to solve a problem is more important."
+            }
+        ]
+    },
+    {
+        "id": "6543",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "nested-lists",
+        "slug": "lists-101_json__nested-lists_json",
+        "sequence_num": 600,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/nested-lists.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "LISTS within List"
+            },
+            {
+                "component": "text",
+                "value": "See this list :-"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "magic_square = [<br>    [8, 3, 4],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]<br><br>print type(magic_square)<br>print type(magic_square[0])<br>print type(magic_square[1])<br><br>print sum(magic_square[0])<br>print sum(magic_square[1])<br>print sum(magic_square[2])"
+            },
+            {
+                "component": "text",
+                "value": "See this image carefully :-"
+            },
+            {
+                "component": "image",
+                "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/lists-101_json/assets/nested_lists.png",
+                "alt": "nested-lists_key4"
+            },
+            {
+                "component": "text",
+                "value": "to understand that how to access elements in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested_lists</span>."
+            },
+            {
+                "component": "header",
+                "variant": 3,
+                "value": "Bonus Content"
+            },
+            {
+                "component": "text",
+                "value": "If you want to learn lists with a very strong depth, watch this video :"
+            },
+            {
+                "component": "youtube",
+                "value": "9rLdQP3g4fw"
+            }
+        ]
+    },
+    {
+        "id": "5406",
+        "parent_exercise_id": "5406",
+        "course_id": "192",
+        "name": "introduction",
+        "slug": "lists-101_json__questions-2/introduction_json",
+        "sequence_num": 700,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/questions-2/introduction.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 1,
+                "value": "Question Set 2"
+            },
+            {
+                "component": "text",
+                "value": "In this section some questions are given. Solutions to some of the questions are given. If you want you can directly see the questions. But, that will not help you at all. It would be better if you first try by yourself for at least 1 hour and then  for 0.5 hrs try with your friend and then only watch the solution. There is no better way to clarify your concepts."
+            },
+            {
+                "component": "text",
+                "value": "The solutions that don't have any video, you can try creating video for that solutions. By this, you will be able to understand the concepts with more clarity and this will help with interview preparation. You can make videos and <span style=\"\">upload</span> them and below the questions and together with the links you cab give as comments. "
+            },
+            {
+                "component": "text",
+                "value": "While doing these questions, you don't have to use any function which is not explained in saral. By doing this, you will learn how to solvegiven problem.This is very important for us to know that how we will solve a problem."
+            }
+        ]
+    },
+    {
+        "id": "6542",
+        "parent_exercise_id": null,
+        "course_id": "192",
+        "name": "lists-len-function",
+        "slug": "lists-101_json__lists-len-function_json",
+        "sequence_num": 800,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/lists-len-function.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "How to iterate on two lists together?"
+            },
+            {
+                "component": "text",
+                "value": "Let's say you have two lists of the same length. How will you iterate through both the lists together ?"
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']<br>marks = [10, 20, 56, 45, 36, 20]<br><br>print len(students)<br>print len(marks)"
+            },
+            {
+                "component": "text",
+                "value": "See if both the lists have same length as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span>. Below we have written a <span style=\"\">code</span> on how to iterate through these lists."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "length = len(students) # kyunki dono ki same length hai toh jiski bhi length le sakte ho<br>counter = 0<br>while counter < length:<br>    print students[counter] + str(marks[counter])"
+            },
+            {
+                "component": "text",
+                "value": "You will notice here that elements of both the lists will be printed."
+            },
+            {
+                "component": "text",
+                "value": "This lesson has only this much to read :D"
+            }
+        ]
+    },
+    {
+        "id": "5407",
+        "parent_exercise_id": "5407",
+        "course_id": "192",
+        "name": "kitne-aadmi-the",
+        "slug": "lists-101_json__kitne-aadmi-the/kitne-aadmi-the_json",
+        "sequence_num": 900,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/kitne-aadmi-the/kitne-aadmi-the.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "How many people were there?"
+            },
+            {
+                "component": "text",
+                "value": "Write a <span style=\"\">code</span> that works for any list, and that tells how many <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> and how many <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> are there in a given list."
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+            }
+        ]
+    },
+    {
+        "id": "5412",
+        "parent_exercise_id": "5412",
+        "course_id": "192",
+        "name": "introduction",
+        "slug": "lists-101_json__questions-n/introduction_json",
+        "sequence_num": 1000,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/questions-n/introduction.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 1,
+                "value": "Question Set 2"
+            },
+            {
+                "component": "text",
+                "value": "In this section some questions are given. Solutions to some of the questions are given. If you want you can directly see the questions. But, that will not help you at all. It would be better if you first try by yourself for at least 1 hour and then  for 0.5 hrs try with your friend and then only watch the solution. There is no better way to clarify your concepts."
+            },
+            {
+                "component": "text",
+                "value": "The solutions that don't have any video, you can try creating video for that solutions. By this, you will be able to understand the concepts with more clarity and this will help with interview preparation. You can make videos and <span style=\"\">upload</span> them and below the questions and together with the links you cab give as comments. "
+            },
+            {
+                "component": "text",
+                "value": "While doing these questions, you don't have to use any function which is not explained in saral. By doing this, you will learn how to solvegiven problem.This is very important for us to know that how we will solve a problem."
+            }
+        ]
+    },
+    {
+        "id": "5410",
+        "parent_exercise_id": "5410",
+        "course_id": "192",
+        "name": "part-1",
+        "slug": "lists-101_json__kbc/part-1_json",
+        "sequence_num": 1100,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/kbc/part-1.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "text",
+                "value": "<b>To understand more about list, we will make a game similar to Kaun Banega Crorepati using <span style=\"\">python</span>.</b> "
+            },
+            {
+                "component": "text",
+                "value": "Please look at the <span style=\"\">code</span> and try to understand that in order to understand KBC game, we have defined some inportant things like"
+            },
+            {
+                "component": "text",
+                "value": "questions, options and their  solutions.<br><br>",
+                "decoration": {
+                    "type": "bullet"
+                }
+            },
+            {
+                "component": "code",
+                "type": "python",
+                "title": "",
+                "value": "question_list = [<br>    \"How many continents are there?\",              # pehla question<br>    \"What is the capital of India?\",            # doosra question<br>    \"NG mei kaun se course padhaya jaata hai?\"    # teesra question<br>]<br><br>options_list = [<br>    #pehle question ke liye options<br>    [\"Four\", \"Nine\", \"Seven\", \"Eight\"],<br>    #second question ke liye options<br>    [\"Chandigarh\", \"Bhopal\", \"Chennai\", \"Delhi\"],<br>    #third question ke liye options<br>    [\"Software Engineering\", \"Counseling\", \"Tourism\", \"Agriculture\"]<br>]<br><br># har ek question ke liye, uski solution key (yeh index nahi hai)<br>solution_list = [3, 4, 1]"
+            }
+        ]
+    },
+    {
+        "id": "5409",
+        "parent_exercise_id": "5409",
+        "course_id": "192",
+        "name": "introduction",
+        "slug": "lists-101_json__advanced-questions/introduction_json",
+        "sequence_num": 1200,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/advanced-questions/introduction.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "Question Set 1"
+            },
+            {
+                "component": "text",
+                "value": "In this section some questions are given. Solutions to some of the questions are given. If you want, you can see the solutions directly. But that will not at all help you. It would be better that first try that question for at least 1 hour by yourself and then for 0.5 hours with your friend and find the solution. There is no other better way to clarify your concepts."
+            },
+            {
+                "component": "text",
+                "value": "All those solutions which don't have a video, try to create video for those solutions. By this you will also learn how to discuss and talk about the concepts and this will be very helpful during the interviews.You can make the videos and <span style=\"\">upload</span> them, and together with the links ,you can share them as comments below the questions."
+            },
+            {
+                "component": "text",
+                "value": "While doing all these questions, you don't need to use any function that is not explained in saral. By doing this you can solve a question using the shortcut method but you won't be able to know that how to solve a given problem and the approach, that we follow to solve a problem is more important."
+            }
+        ]
+    },
+    {
+        "id": "5411",
+        "parent_exercise_id": "5411",
+        "course_id": "192",
+        "name": "debugging-intro",
+        "slug": "lists-101_json__debugging-part2/debugging-intro_json",
+        "sequence_num": 1300,
+        "review_type": "manual",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101_json/debugging-part2/debugging-intro.json",
+        "solution": null,
+        "content": [
+            {
+                "component": "header",
+                "variant": 2,
+                "value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Debugging</span>"
+            },
+            {
+                "component": "text",
+                "value": "Now, in this part, we will debug different parts of a <span style=\"\">code</span> and correct it."
+            }
+        ]
+    }
+]
